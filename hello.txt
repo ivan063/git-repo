@@ -1,3 +1,7 @@
-print ("Hello!")
-print ("Hello my friend!")
-print ("How do you do?")
+<<<<<<< HEAD
+print ("Hello!");
+print ("Hello my friend!");
+print ("How do you do?");
+=======
+print ("Hello!");
+>>>>>>> master
